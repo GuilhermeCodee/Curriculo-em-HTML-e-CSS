@@ -11,6 +11,8 @@ Aplicar conceitos de HTML semântico
 Utilizar CSS moderno (Flexbox, gradientes, animações)
 Desenvolver um layout visualmente atrativo
 Exibir habilidades em formato interativo (skills animadas)
+
+
 🛠️ Tecnologias Utilizadas
 HTML5 → Estrutura da página
 CSS3 → Estilização e animações
@@ -28,14 +30,8 @@ Keyframes (CSS Animation) → Animações nas skills
 🎨 Destaques do Projeto
 Uso de conic-gradient para criar gráficos circulares de habilidades
 Animações feitas 100% em CSS
-Interface com efeito glass (blur + transparência)
-Design limpo e profissional
-📂 Estrutura do Projeto
-📁 projeto-portfolio
-│── index.html
-│── style.css
-│── 📁 img
-│    └── perfil.jpg
+
+
 ▶️ Como Executar
 Baixe ou clone o projeto
 Abra o arquivo index.html no navegador
